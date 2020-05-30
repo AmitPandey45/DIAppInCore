@@ -1,0 +1,14 @@
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\DIApp\bin\Debug\netcoreapp2.1\DIApp.deps.json
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\DIApp\bin\Debug\netcoreapp2.1\DIApp.runtimeconfig.json
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\DIApp\bin\Debug\netcoreapp2.1\DIApp.runtimeconfig.dev.json
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\DIApp\bin\Debug\netcoreapp2.1\DIApp.dll
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\DIApp\bin\Debug\netcoreapp2.1\DIApp.pdb
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\DIApp\obj\Debug\netcoreapp2.1\DIApp.csprojAssemblyReference.cache
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\DIApp\obj\Debug\netcoreapp2.1\DIApp.csproj.CoreCompileInputs.cache
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\DIApp\obj\Debug\netcoreapp2.1\DIApp.RazorAssemblyInfo.cache
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\DIApp\obj\Debug\netcoreapp2.1\DIApp.RazorAssemblyInfo.cs
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\DIApp\obj\Debug\netcoreapp2.1\DIApp.AssemblyInfoInputs.cache
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\DIApp\obj\Debug\netcoreapp2.1\DIApp.AssemblyInfo.cs
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\DIApp\obj\Debug\netcoreapp2.1\DIApp.RazorTargetAssemblyInfo.cache
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\DIApp\obj\Debug\netcoreapp2.1\DIApp.dll
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\DIApp\obj\Debug\netcoreapp2.1\DIApp.pdb

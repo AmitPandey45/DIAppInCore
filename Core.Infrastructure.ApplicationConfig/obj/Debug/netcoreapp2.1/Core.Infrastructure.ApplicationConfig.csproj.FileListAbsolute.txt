@@ -1,0 +1,12 @@
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\Core.Infrastructure.ApplicationConfig\bin\Debug\netcoreapp2.1\Core.Infrastructure.ApplicationConfig.deps.json
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\Core.Infrastructure.ApplicationConfig\bin\Debug\netcoreapp2.1\Core.Infrastructure.ApplicationConfig.dll
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\Core.Infrastructure.ApplicationConfig\bin\Debug\netcoreapp2.1\Core.Infrastructure.ApplicationConfig.pdb
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\Core.Infrastructure.ApplicationConfig\bin\Debug\netcoreapp2.1\Core.Framework.ApplicationConfig.dll
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\Core.Infrastructure.ApplicationConfig\bin\Debug\netcoreapp2.1\Core.Framework.ApplicationConfig.pdb
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\Core.Infrastructure.ApplicationConfig\obj\Debug\netcoreapp2.1\Core.Infrastructure.ApplicationConfig.csprojAssemblyReference.cache
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\Core.Infrastructure.ApplicationConfig\obj\Debug\netcoreapp2.1\Core.Infrastructure.ApplicationConfig.csproj.CoreCompileInputs.cache
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\Core.Infrastructure.ApplicationConfig\obj\Debug\netcoreapp2.1\Core.Infrastructure.ApplicationConfig.AssemblyInfoInputs.cache
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\Core.Infrastructure.ApplicationConfig\obj\Debug\netcoreapp2.1\Core.Infrastructure.ApplicationConfig.AssemblyInfo.cs
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\Core.Infrastructure.ApplicationConfig\obj\Debug\netcoreapp2.1\Core.Infrastructure.ApplicationConfig.csproj.CopyComplete
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\Core.Infrastructure.ApplicationConfig\obj\Debug\netcoreapp2.1\Core.Infrastructure.ApplicationConfig.dll
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\Core.Infrastructure.ApplicationConfig\obj\Debug\netcoreapp2.1\Core.Infrastructure.ApplicationConfig.pdb

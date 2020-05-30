@@ -1,0 +1,16 @@
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\locDemo.Domain\bin\Debug\netcoreapp2.1\locDemo.Domain.deps.json
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\locDemo.Domain\bin\Debug\netcoreapp2.1\locDemo.Domain.dll
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\locDemo.Domain\bin\Debug\netcoreapp2.1\locDemo.Domain.pdb
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\locDemo.Domain\bin\Debug\netcoreapp2.1\locDemo.Repository.dll
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\locDemo.Domain\bin\Debug\netcoreapp2.1\locDemo.ViewModel.dll
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\locDemo.Domain\bin\Debug\netcoreapp2.1\OracleClient.dll
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\locDemo.Domain\bin\Debug\netcoreapp2.1\locDemo.Repository.pdb
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\locDemo.Domain\bin\Debug\netcoreapp2.1\locDemo.ViewModel.pdb
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\locDemo.Domain\bin\Debug\netcoreapp2.1\OracleClient.pdb
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\locDemo.Domain\obj\Debug\netcoreapp2.1\locDemo.Domain.csprojAssemblyReference.cache
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\locDemo.Domain\obj\Debug\netcoreapp2.1\locDemo.Domain.csproj.CoreCompileInputs.cache
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\locDemo.Domain\obj\Debug\netcoreapp2.1\locDemo.Domain.AssemblyInfoInputs.cache
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\locDemo.Domain\obj\Debug\netcoreapp2.1\locDemo.Domain.AssemblyInfo.cs
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\locDemo.Domain\obj\Debug\netcoreapp2.1\locDemo.Domain.csproj.CopyComplete
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\locDemo.Domain\obj\Debug\netcoreapp2.1\locDemo.Domain.dll
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\locDemo.Domain\obj\Debug\netcoreapp2.1\locDemo.Domain.pdb

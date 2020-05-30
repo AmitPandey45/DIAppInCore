@@ -1,0 +1,9 @@
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\locDemo.ViewModel\bin\Debug\netcoreapp2.1\locDemo.ViewModel.deps.json
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\locDemo.ViewModel\bin\Debug\netcoreapp2.1\locDemo.ViewModel.dll
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\locDemo.ViewModel\bin\Debug\netcoreapp2.1\locDemo.ViewModel.pdb
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\locDemo.ViewModel\obj\Debug\netcoreapp2.1\locDemo.ViewModel.csprojAssemblyReference.cache
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\locDemo.ViewModel\obj\Debug\netcoreapp2.1\locDemo.ViewModel.csproj.CoreCompileInputs.cache
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\locDemo.ViewModel\obj\Debug\netcoreapp2.1\locDemo.ViewModel.AssemblyInfoInputs.cache
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\locDemo.ViewModel\obj\Debug\netcoreapp2.1\locDemo.ViewModel.AssemblyInfo.cs
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\locDemo.ViewModel\obj\Debug\netcoreapp2.1\locDemo.ViewModel.dll
+D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\locDemo.ViewModel\obj\Debug\netcoreapp2.1\locDemo.ViewModel.pdb
