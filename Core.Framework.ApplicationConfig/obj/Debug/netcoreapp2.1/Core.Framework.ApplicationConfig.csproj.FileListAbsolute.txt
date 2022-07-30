@@ -1,9 +1,0 @@
-D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\Core.Framework.ApplicationConfig\bin\Debug\netcoreapp2.1\Core.Framework.ApplicationConfig.deps.json
-D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\Core.Framework.ApplicationConfig\bin\Debug\netcoreapp2.1\Core.Framework.ApplicationConfig.dll
-D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\Core.Framework.ApplicationConfig\bin\Debug\netcoreapp2.1\Core.Framework.ApplicationConfig.pdb
-D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\Core.Framework.ApplicationConfig\obj\Debug\netcoreapp2.1\Core.Framework.ApplicationConfig.csprojAssemblyReference.cache
-D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\Core.Framework.ApplicationConfig\obj\Debug\netcoreapp2.1\Core.Framework.ApplicationConfig.csproj.CoreCompileInputs.cache
-D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\Core.Framework.ApplicationConfig\obj\Debug\netcoreapp2.1\Core.Framework.ApplicationConfig.AssemblyInfoInputs.cache
-D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\Core.Framework.ApplicationConfig\obj\Debug\netcoreapp2.1\Core.Framework.ApplicationConfig.AssemblyInfo.cs
-D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\Core.Framework.ApplicationConfig\obj\Debug\netcoreapp2.1\Core.Framework.ApplicationConfig.dll
-D:\ICREON\ASTM\PROJECTS\APP\Demo\DIApp\Core.Framework.ApplicationConfig\obj\Debug\netcoreapp2.1\Core.Framework.ApplicationConfig.pdb
